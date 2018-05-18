@@ -1795,3 +1795,8 @@ i.icon-white {
 .bg-dark{
 	background-color: #424242;
 }
+.donate{
+	color:#1bac91;
+	font-weight: bold; 
+	font-family:'Open Sans', Arial, sans-serif;
+}
